@@ -1,4 +1,3 @@
-
 === WP SMS Notifications ===
 Contributors: SSL Wireless
 Donate link: http://efextra.com/
